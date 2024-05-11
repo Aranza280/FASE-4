@@ -19,7 +19,7 @@ Pasos para la instalación y ejecución:
 3. Apertura del archivo en Visual Studio:
    - Abre Visual Studio en tu sistema y selecciona la opción "Abrir archivo" desde el menú principal. Navega hasta la ubicación donde guardaste el archivo "index.html" y ábrelo en Visual Studio.
 
-4. **Ejecución del proyecto con Live Server:
+4. Ejecución del proyecto con Live Server:
    - Una vez abierto el archivo "index.html" en Visual Studio, haz clic derecho sobre el archivo y selecciona la opción "Open with Live Server". Esto iniciará el servidor en vivo y abrirá la página web en tu navegador web predeterminado.
 
 5. Exploración de la aplicación web:
